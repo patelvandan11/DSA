@@ -3,7 +3,7 @@
 int main()
 {
 
-    int v[5];
+    int  v[5];
     printf("ente the element :");
     for (int i = 0; i < 5; i++)
     {
