@@ -3,7 +3,7 @@
 #include <stdio.h>
 int insert(int a[], int n)
 {
-    int pos, element;
+    int pos, element; 
     printf("At which index position you want to insert element:");
     scanf("%d", &pos);
     printf("Element:");

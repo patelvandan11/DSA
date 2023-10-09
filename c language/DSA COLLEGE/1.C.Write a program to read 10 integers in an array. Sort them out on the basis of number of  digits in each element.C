@@ -23,6 +23,5 @@ int main()
     {
         printf("%d", v[i]);
     }
-
     return 0;
 }

@@ -1,8 +1,8 @@
 #include <stdio.h>
 #include <conio.h>
 int main()
-{
-    // declare local variables
+{ 
+  
     int arr[20], i, j, k, size;
 
     printf(" Define the number of elements in an array: ");
