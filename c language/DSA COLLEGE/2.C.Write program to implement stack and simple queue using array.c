@@ -97,4 +97,7 @@ void main()
     enqueue(20);
     enqueue(30);
     display_queue();
-    printf("Dequeued element: %d\n", dequeue
+    printf("Dequeued element: %d\n", dequeue());
+
+    return 0;
+}
