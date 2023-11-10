@@ -6,7 +6,7 @@
 int queue[MAX_SIZE];
 int front = -1, rear = -1;
 
-void enqueue(int data)
+void enqueue(int data)   
 {
     if (rear == MAX_SIZE - 1)
     {
